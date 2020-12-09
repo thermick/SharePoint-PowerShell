@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Deployment_Telemetry_Instrumentation_Key",
+    "value": "e15aa4db-a1cc-4622-844f-e7dd01596983",
+    "slotSetting": false
+  },
+  {
+    "name": "sonar.jdbc.password",
+    "value": "P4554dm1n5ql",
+    "slotSetting": false
+  },
+  {
+    "name": "sonar.jdbc.url",
+    "value": "jdbc:sqlserver://sonarqubesqlthermick.database.windows.net:1433;databaseName=sonardb;user=sqladmin@sonarqubesqlthermick;password=P4554dm1n5ql;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;",
+    "slotSetting": false
+  },
+  {
+    "name": "sonar.jdbc.username",
+    "value": "sqladmin@sonarqubesqlthermick",
+    "slotSetting": false
+  },
+  {
+    "name": "SonarQubeEdition",
+    "value": "Community",
+    "slotSetting": false
+  },
+  {
+    "name": "SonarQubeVersion",
+    "value": "Latest",
+    "slotSetting": false
+  }
+]
